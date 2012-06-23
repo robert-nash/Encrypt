@@ -1,2 +1,2 @@
-A very basic encryption program. This program takes any number of words (over 95000 characters) and as long as they are all ASCII characters then it will convert it into unreadable characters.
+A very basic encryption program. This program takes any number of words (over 95000 characters) and as long as they are all ASCII characters then it will convert them into meaningless characters.
 Warning- do not use for important security requirements. 
